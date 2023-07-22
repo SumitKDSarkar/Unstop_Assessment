@@ -3,9 +3,9 @@
 
 # Unstop assessment
 
-Hello Everyone, my name is Sabira Farooq and I would like to share my Experience in this Construction Week, this time Masai School give me and my team members an oppotunity to build a cloned website of Farfetch as a part of our Unit-3 construct week.
+Hello Everyone, my name is Sumit and I would like to share my Experience in this assesment, this time a company called Unstop give me an oppotunity to build a figma degin as a part of there interview process.
 
-This was a group project executed within a 5 days of span.
+This was an individual executed within a days .
 
 
 Have a look ⬇️
@@ -16,7 +16,7 @@ Have a look ⬇️
 
 **Client:** HTML, CSS, JavaScript, React.JS, TailWind.css
 
-**Deploying:** [Netlify](https://unstop-assessment-skumarcbr4-gmailcom.vercel.app/assessment)
+**Deploying:** [Vercel](https://unstop-assessment-skumarcbr4-gmailcom.vercel.app/assessment)
 
 
 
@@ -27,15 +27,20 @@ Have a look ⬇️
 ![Screenshot (232)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/9944c481-82b6-48a5-b8a1-55fd337d92d5)
 
 
-![App Screenshot](https://miro.medium.com/max/875/1*IPTCj70KN7leyQJ_k5iawA.jpeg)
+![Screenshot (233)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/42af8967-a579-433e-9682-4cc1b048587d)
 
-![App Screenshot](https://miro.medium.com/max/875/1*yOYCnn52HTFDMMxfwnJYfw.jpeg)
 
-![App Screenshot](https://miro.medium.com/max/875/1*fKRMZZJarCITW7jbLA62kQ.jpeg)
+![Screenshot (234)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/e4c5c263-e561-4543-9ba3-297164a02c8d)
 
-![App Screenshot](https://miro.medium.com/max/758/1*guIw6kLpVilpLDdB48hubA.jpeg)
 
-![App Screenshot](https://miro.medium.com/max/875/1*-rsAvG34cGeHDnwjWcgkzQ.jpeg)
+![Screenshot (235)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/72cf5783-8278-458c-85b6-5ea99d865300)
+
+
+![Screenshot (236)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/a31a8196-9462-4c22-90d6-6f5eab1104f2)
+
+
+![Screenshot (237)](https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/677f1dcb-b98c-462e-b7f7-b5e675ef1ebc)
+
 
 ## Contributors:
 ## @Sumit
