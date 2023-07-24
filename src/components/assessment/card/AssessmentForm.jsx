@@ -19,7 +19,7 @@ function AssessmentForm() {
   return (
     <>
       {/* the card carry the modal */}
-      <div className="w-full border border-dashed group rounded-box bg-[#F6F8FA] p-[1rem] sm:p-3 md:p-[1.875rem] hover:bg-[#ebedf0] cursor-pointer border border-gray-100 border-solid border-2 rounded-lg">
+      <div className="w-full border border-dashed group rounded-box bg-[#F6F8FA] p-[1rem] sm:p-3 md:p-[1.875rem] hover:bg-[#ebedf0] cursor-pointer border border-gray-200 border-solid border-2 rounded-lg">
         <div
           className=" flex gap-2 items-center justify-center flex-col  "
           onClick={() => openModal()}
@@ -29,7 +29,7 @@ function AssessmentForm() {
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 40 41"
               fill="none"
-              className="lg:w-[40px] lg:h-[41px] w-[29px] h-[30px] group-hover:rotate-90 transition-all"
+              className="lg:w-[40px] lg:h-[41px] w-[29px] h-[30px]  transition-all"
             >
               <g clipPath="url(#clip0_0_553)">
                 <path
@@ -94,7 +94,7 @@ function AssessmentForm() {
             <h3 className="px-4 md:px-[1.88rem] py-5 font-semibold text-[#1C4980] text-sm md:text-xl border-b">
               Create new assessment
             </h3>
-            <div className="px-4 md:px-[1.88rem] overflow-auto max-h-[60vh] py-4">
+            <div className="px-4 md:px-[1.88rem] overflow-auto max-h-[80vh] py-4">
               <div className="flex gap-5 flex-col form-control w-full">
                 <div>
                   <label className="label pt-0">

@@ -6,7 +6,7 @@ import MobileScreen from "./Screen/MobileScreen";
 
 function Assessment() {
   const assessments = [];
-  //  assessments array with 3 cards
+  //  assessment array with 3 cards
   for (let i = 0; i < 3; i++) {
     assessments.push({ id: i, title: `Assessment ${i}` });
   }
