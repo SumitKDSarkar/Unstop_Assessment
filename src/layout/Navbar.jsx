@@ -3,9 +3,7 @@ import { useNavigate } from "react-router-dom";
 
 function Navbar() {
   const navigate = useNavigate();
-  const [active, setActive] = useState(
-    window.location.pathname.substr(1) || "dashboard"
-  );
+  const [active, setActive] = useState(window.location.pathname.substr(1));
 
   const blurElement = () => {
     const elem = document.activeElement;
@@ -79,11 +77,7 @@ function Navbar() {
             </li>
             <li className="mt-4">
               <a
-                onClick={() => {
-                  setActive("dashboard");
-                  document.getElementById("my-drawer").checked = false;
-                //   navigate("/dashboard");
-                }}
+                // Need to add onClick function here
                 className={
                   "px-2 py-[0.62rem] hover:bg-[#E5F1FC] text-[#1C4980] hover:text-[#0073E6] text-sm font-semibold active:!bg-[#E5F1FC] active:!text-[#1C4980] border border-transparent " +
                   (active == "dashboard"
@@ -161,11 +155,8 @@ function Navbar() {
             </li>
             <li>
               <a
-                onClick={() => {
-                  setActive("my_library");
-                  document.getElementById("my-drawer").checked = false;
-                //   navigate("/my_library");
-                }}
+                // need to add onClick function here
+
                 className={
                   "px-2 py-[0.62rem] hover:bg-[#E5F1FC] text-[#1C4980] hover:text-[#0073E6] text-sm font-semibold active:!bg-[#E5F1FC] active:!text-[#1C4980] border border-transparent " +
                   (active == "my_library"
@@ -254,8 +245,7 @@ function Navbar() {
             <li>
               <a
                 onClick={() => {
-                  navigate("/dashboard");
-                  setActive("dashboard");
+                  // need to add navigate("/dashboard"); and setActive("dashboard"); if in feuter want to access the dashboard
                 }}
                 className={
                   "px-2 py-2 hover:bg-[#E5F1FC] text-[#1C4980] hover:text-[#0073E6] active:!bg-[#E5F1FC] active:!text-[#1C4980] flex flex-col border border-transparent " +
@@ -334,8 +324,7 @@ function Navbar() {
             <li>
               <a
                 onClick={() => {
-                  navigate("/my_library");
-                  setActive("my_library");
+                  // need to add navigate("/my_library"); and setActive("my_library"); if in feuter want to access the my_library
                 }}
                 className={
                   "px-2 py-2 hover:bg-[#E5F1FC] text-[#1C4980] hover:text-[#0073E6] active:!bg-[#E5F1FC] active:!text-[#1C4980] flex flex-col border border-transparent " +

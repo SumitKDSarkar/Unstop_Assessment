@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import AssessmentCard from "./card/AssessmentCard";
 import AssessmentForm from "./card/AssessmentForm";
-import DesktopScreen from "./overview/DesktopScreen";
-import MobileScreen from "./overview/MobileScreen";
+import DesktopScreen from "./Screen/DesktopScreen";
+import MobileScreen from "./Screen/MobileScreen";
 
 function Assessment() {
   const assessments = [];
