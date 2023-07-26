@@ -50,3 +50,7 @@ https://github.com/SumitKDSarkar/Unstop_Assessment/assets/101394590/67d238cd-752
 
 ## Contributors:
 ## @Sumit
+
+
+
+<img  align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=0eff00&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Project!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 70%;">
